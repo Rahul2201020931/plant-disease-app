@@ -1,0 +1,13 @@
+# Ignore Python cache & virtual environment
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Ignore Node modules & build files
+node_modules/
+dist/
+build/
+
+# Ignore model files (if large)
+*.h5
