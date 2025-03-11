@@ -6,3 +6,4 @@ pillow
 tensorflow-serving-api
 matplotlib
 numpy
+qwertyuiopasdfghjkl;'\zxcvbnmmmmmmmnmnm,./ 
